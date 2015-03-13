@@ -1,0 +1,1 @@
+This sample app uses .csv files instead of MySQL to store attendee registration info
